@@ -313,3 +313,147 @@ void single_llist::display()
     }
     cout<<"NULL"<<endl;
 }
+
+
+/*
+
+
+Output - 
+
+
+
+---------------------------------
+
+
+
+Operations on singly linked list
+
+
+
+---------------------------------
+
+1.Insert Node at Head
+
+2.Insert node at Tail
+
+3.Insert node at position
+
+4.Delete a Particular Node
+
+5.Search Element
+
+6.Display Linked List
+
+7.Exit 
+
+Enter your choice : 1
+
+Inserting Node at Head: 
+
+Enter the value to be inserted: 6
+
+Element Inserted at Head
+
+
+
+
+
+---------------------------------
+
+
+
+Operations on singly linked list
+
+
+
+---------------------------------
+
+1.Insert Node at Head
+
+2.Insert node at Tail
+
+3.Insert node at position
+
+4.Delete a Particular Node
+
+5.Search Element
+
+6.Display Linked List
+
+7.Exit 
+
+Enter your choice : 2 1 2
+
+Inserting Node at Tail: 
+
+Enter the value to be inserted: 7
+
+Element Inserted at Tail
+
+
+
+
+
+---------------------------------
+
+
+
+Operations on singly linked list
+
+
+
+---------------------------------
+
+1.Insert Node at Head
+
+2.Insert node at Tail
+
+3.Insert node at position
+
+4.Delete a Particular Node
+
+5.Search Element
+
+6.Display Linked List
+
+7.Exit 
+
+Enter your choice : 6
+
+Display elements of link list
+
+Elements of list are: 
+
+6->7->NULL
+
+
+
+
+
+---------------------------------
+
+
+
+Operations on singly linked list
+
+
+
+---------------------------------
+
+1.Insert Node at Head
+
+2.Insert node at Tail
+
+3.Insert node at position
+
+4.Delete a Particular Node
+
+5.Search Element
+
+6.Display Linked List
+
+7.Exit 
+
+Enter your choice : 
+
+*/
