@@ -1,0 +1,89 @@
+
+
+-- Menu -- 
+
+1. Insert Node
+2. Display its preorder, postorder and inorder traversals
+0. Exit Program 
+
+1
+INSERT
+
+Enter value of TREE NODE : 10
+Insertion successful
+
+
+
+-- Menu -- 
+
+1. Insert Node
+2. Display its preorder, postorder and inorder traversals
+0. Exit Program 
+
+1
+INSERT
+
+Enter value of TREE NODE : 5
+Insertion successful
+
+
+
+-- Menu -- 
+
+1. Insert Node
+2. Display its preorder, postorder and inorder traversals
+0. Exit Program 
+
+1
+INSERT
+
+Enter value of TREE NODE : 14
+Insertion successful
+
+
+
+-- Menu -- 
+
+1. Insert Node
+2. Display its preorder, postorder and inorder traversals
+0. Exit Program 
+
+1
+INSERT
+
+Enter value of TREE NODE : 0
+Insertion successful
+
+
+
+-- Menu -- 
+
+1. Insert Node
+2. Display its preorder, postorder and inorder traversals
+0. Exit Program 
+
+6 1
+INSERT
+
+Enter value of TREE NODE : 6
+Insertion successful
+
+
+
+-- Menu -- 
+
+1. Insert Node
+2. Display its preorder, postorder and inorder traversals
+0. Exit Program 
+
+2
+
+PRE-ORDER: 10 5 0 6 14 
+IN-ORDER: 0 5 6 10 14 
+POST-ORDER: 0 6 5 14 10 
+
+-- Menu -- 
+
+1. Insert Node
+2. Display its preorder, postorder and inorder traversals
+0. Exit Program 
